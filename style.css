@@ -95,7 +95,6 @@ nav ul li a {
 	border-radius: 30px;
 	border-top-right-radius: 0;
 	transition: 0.5s;
-	cursor: none;
 }
 .content_home_page {
 	display: inline-block;
