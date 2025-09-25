@@ -4,3 +4,5 @@
 
 # Вітаю! Це сайт Піфагоріанізму
 ### ...це історія, яка ще не завершилася
+
+https://pythagoreanism-3-4-5-shalapai.github.io/pythagoreanism/
